@@ -4,7 +4,9 @@
  * */
 public class HelloWorld {
 public static void main(String[] args){
-	System.out.println("HelloWorld");
-	System.out.println("HelloJava8");
+	while(true){
+		System.out.println("HelloWorld");
+		System.out.println("HelloJava8");
+	}
 }
 }
