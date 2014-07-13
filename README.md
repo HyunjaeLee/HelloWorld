@@ -5,7 +5,7 @@ Hello World
 The Eclipse Plug-In EGit Test
 
 Source Preview
-```
+```java
 /*
  * Hyunjae Lee
  * The Eclipse Plug-In EGit Test
