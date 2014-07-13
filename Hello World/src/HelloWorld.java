@@ -1,6 +1,6 @@
 /*
  * Hyunjae Lee
- * THe Eclipse Plug-In EGit Test
+ * The Eclipse Plug-In EGit Test
  * */
 public class HelloWorld {
 public static void main(String[] args){
